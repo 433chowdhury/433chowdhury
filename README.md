@@ -1,7 +1,6 @@
 - Hi, I’m Tawhid (@433chowdhury)
-- I’m interested in Web Development, Software Enginerring
-- I’m currently learning Express (Back-End programming)
-- My skills are: Javascript, HTML, CSS, React, Java, MySql
+- I’m interested in Web Development, Software Enginerring, DevOps & Cloud
+- My skills are: Javascript, HTML, CSS, ReactJs, NextJs, TailwindCSS, NodeJs, TypeScript, Java, Spring Boot, MySql, Docker, NGINX, Tomcat
 - Email me at 433chowdhury@gmail.com
 
 <!---
